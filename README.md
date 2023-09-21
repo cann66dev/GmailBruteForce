@@ -1,9 +1,7 @@
 # Gmail Brute Force
 <hr>
 
-This Programm Write by [Cann66](https://github.com/cann66dev) 
-<br>
-
+This Program Write by [Cann66](https://github.com/cann66dev) 
 <br>
 
 **Installing**
